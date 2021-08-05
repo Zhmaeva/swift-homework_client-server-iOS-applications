@@ -20,6 +20,8 @@
 		C14C911826BAD76E0041E743 /* Notification.swift in Sources */ = {isa = PBXBuildFile; fileRef = C14C911726BAD76E0041E743 /* Notification.swift */; };
 		C19B9A6A26BC029800CD4356 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C19B9A6926BC029800CD4356 /* Main.storyboard */; };
 		C19B9A6C26BC038600CD4356 /* OneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C19B9A6B26BC038600CD4356 /* OneViewController.swift */; };
+		C19B9A7226BC0B3C00CD4356 /* TwoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C19B9A7126BC0B3C00CD4356 /* TwoViewController.swift */; };
+		C19B9A7426BC0B4800CD4356 /* AppleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C19B9A7326BC0B4800CD4356 /* AppleViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +40,8 @@
 		C14C911726BAD76E0041E743 /* Notification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notification.swift; sourceTree = "<group>"; };
 		C19B9A6926BC029800CD4356 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		C19B9A6B26BC038600CD4356 /* OneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OneViewController.swift; sourceTree = "<group>"; };
+		C19B9A7126BC0B3C00CD4356 /* TwoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoViewController.swift; sourceTree = "<group>"; };
+		C19B9A7326BC0B4800CD4356 /* AppleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +112,8 @@
 			children = (
 				C19B9A6926BC029800CD4356 /* Main.storyboard */,
 				C19B9A6B26BC038600CD4356 /* OneViewController.swift */,
+				C19B9A7126BC0B3C00CD4356 /* TwoViewController.swift */,
+				C19B9A7326BC0B4800CD4356 /* AppleViewController.swift */,
 			);
 			path = Delegate;
 			sourceTree = "<group>";
@@ -186,10 +192,12 @@
 			files = (
 				C14C910F26BAC8EF0041E743 /* Session.swift in Sources */,
 				C14C90F926BAC4C50041E743 /* FirstViewController.swift in Sources */,
+				C19B9A7226BC0B3C00CD4356 /* TwoViewController.swift in Sources */,
 				C14C911426BAD5960041E743 /* ObserverViewController.swift in Sources */,
 				C19B9A6C26BC038600CD4356 /* OneViewController.swift in Sources */,
 				C14C90F526BAC4C50041E743 /* AppDelegate.swift in Sources */,
 				C14C911826BAD76E0041E743 /* Notification.swift in Sources */,
+				C19B9A7426BC0B4800CD4356 /* AppleViewController.swift in Sources */,
 				C14C910B26BAC80F0041E743 /* LastViewController.swift in Sources */,
 				C14C90F726BAC4C50041E743 /* SceneDelegate.swift in Sources */,
 			);
